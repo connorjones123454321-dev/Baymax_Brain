@@ -8,7 +8,7 @@ the pyttsx3 package requires python 3.11 or lower
 ## Setup 
 install requirements
 ``` bash
-sudo apt install portaudio19-dev python3-dev
+sudo apt install portaudio19-dev python3-dev flac
 python3.11 -m pip install -r requirements.txt
 ```
 
